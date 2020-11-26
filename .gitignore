@@ -1,5 +1,4 @@
 /.artifacts/
-/bin/
 /brew
 /build/
 /cmd/podman/varlink/iopodman.go
